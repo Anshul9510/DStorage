@@ -26,7 +26,7 @@ contract DStorage {
     uint uploadTime,
     address payable uploader
   );
-
+// good prj
   constructor() public {
   }
 
